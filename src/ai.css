@@ -1,0 +1,1 @@
+.creation-actions{display:flex;gap:8px;align-items:center}.ai-button{margin-top:10px;border:1px solid #c4b5fd;border-radius:5px;background:#f5f3ff;color:#6d28d9;font-weight:600;padding:10px 14px;cursor:pointer}.ai-button:disabled{opacity:.6;cursor:wait}.creation-error{margin:10px 0 0;color:#b42318;font-size:13px}
